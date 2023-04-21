@@ -8,6 +8,8 @@ Create a simple calendar application that allows a user to save events for each 
 >* License
 
 ## Mock-up
+The following image shows the web application's appearance and functionality:
+
 ![The workday scheduler application displays hourly units of time color coded by past/present/future.](./assets//Screenshot.png)
 
 >Link to site: [Workday Scheduler](https://matty-bamboo.github.io/workday-scheduler).
