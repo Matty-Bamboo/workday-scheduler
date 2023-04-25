@@ -57,8 +57,8 @@ function loadStoredData () {
 function handleSaveClick(event) {
 //console.log("click");
 var hourBlock = $(event.target).parent();
-//var value = hourBlock.children("textarea").val();
-let value = $(event.target).sibling("textarea").val();
+var value = hourBlock.children("textarea").val();
+//let value = $(event.target).sibling("textarea").val();
 //console.log(`value: ${value}`);
 var hour = hourBlock.attr('id').split("-")[1];
 
